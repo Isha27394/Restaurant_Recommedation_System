@@ -1,0 +1,44 @@
+﻿git : remote: error: 
+Trace: b6772cac629182a1d6d
+f78e7e39b3689f2b277eb4f2d8
+abc9d9ecd6531dfd3d9       
+ 
+At line:1 char:1
++ git push -u origin main 
+2>&1 | Out-File -Encoding 
+utf8 error_log.txt
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo        
+      : NotSpecified: (r  
+  emote: error: ...1dfd   
+ 3d9        :String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+remote: error: See 
+https://gh.io/lfs for 
+more information.        
+remote: error: File 
+restaurant.pkl is 122.34 
+MB; this exceeds GitHub's 
+file size limit of 100.00 
+MB        
+remote: error: GH001: 
+Large files detected. You 
+may want to try Git Large 
+File Storage - https://git
+-lfs.github.com.        
+To https://github.com/Isha
+27394/Restaurant_Recommeda
+tion_System.git
+ ! [remote rejected] main 
+-> main (pre-receive hook 
+declined)
+error: failed to push 
+some refs to 'https://gith
+ub.com/Isha27394/Restauran
+t_Recommedation_System.git
+'
