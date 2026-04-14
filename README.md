@@ -28,6 +28,7 @@ Step	Process	Description
 4	Similarity	Uses Cosine Similarity to find similar restaurants
 5	Export	Saves model as restaurant.pkl for fast access
 # 📁 Project Structure
+
 Restaurant-Recommendation-System/
 ├── Flask/
 │   ├── app1.py                     # Flask application
@@ -46,6 +47,7 @@ Restaurant-Recommendation-System/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
 # 🚀 Getting Started
 # Prerequisites
 Python 3.8+
