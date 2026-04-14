@@ -50,22 +50,22 @@ Restaurant-Recommendation-System/
 # Prerequisites
 Python 3.8+
 pip installed
-Installation
-Clone the repository
+# Installation
+# 1.Clone the repository
 git clone https://github.com/your-username/Restaurant-Recommendation-System.git
-cd Restaurant-Recommendation-System
+# 2.cd Restaurant-Recommendation-System
 Create a virtual environment
 python -m venv venv
 venv\Scripts\activate
-Install dependencies
+# 3.Install dependencies
 pip install -r requirements.txt
-Build the model
-cd Model
+# 4.Build the model
+# 5.cd Model
 python build_model.py
-Run the Flask application
-cd Flask
+# 6.Run the Flask application
+# 7.cd Flask
 python app1.py
-Open in browser
+# 8.Open in browser
 http://127.0.0.1:5000
 
 # 📊 Dataset
